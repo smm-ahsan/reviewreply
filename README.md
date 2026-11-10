@@ -35,7 +35,7 @@ first draft in one second, which you calm down, personalise, and post.
 No installation needed. Clone the repo and run it with Python 3:
 
 ```bash
-git clone https://github.com/ahsanhani/reviewreply.git
+git clone https://github.com/smm-ahsan/reviewreply.git
 cd reviewreply
 python3 reviewreply.py --help
 ```
